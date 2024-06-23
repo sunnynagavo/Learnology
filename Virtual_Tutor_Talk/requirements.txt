@@ -1,0 +1,4 @@
+streamlit             # Streamlit library
+azure-cognitiveservices-speech  # Azure Cognitive Services Speech SDK
+openai                # OpenAI Python client library
+python-dotenv         # Python dotenv library
